@@ -1,0 +1,40 @@
+.accordion-group {
+	width: 200px;
+}
+
+.well {
+	padding: 10px;
+}
+
+.row-fluid .span2 {
+	width: 225px;
+}
+
+.row-fluid .span10 {
+	width: 70%;
+}
+
+.menu-header {
+	font-family: tahoma,arial,verdana,sans-serif;
+	color: #15428B;
+	font-size: 14px;
+	line-height: 24px;
+	text-align: center;
+}
+
+.row-fluid [class*="span"] {
+	margin-left: 10px;
+}
+
+.container-fluid {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.accordion-inner a{
+	margin-left: 12px;
+}
+
+.index:hover {
+	background-color: #9BC9E7;
+}
